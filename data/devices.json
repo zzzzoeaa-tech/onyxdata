@@ -1,4 +1,13 @@
 {
-  "devices": {},
+  "devices": {
+    "ba21eb1f266ad150c96fe308fa4f8283": {
+      "owner": "owner",
+      "name": "Android - localhost",
+      "first_seen": "2026-06-17T19:46:34.645237",
+      "last_seen": "2026-06-17T19:46:34.645343",
+      "failed_attempts": 1,
+      "blocked": false
+    }
+  },
   "blocked_devices": []
 }
