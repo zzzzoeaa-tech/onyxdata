@@ -1,9 +1,29 @@
 {
-  "sessions": [],
+  "sessions": [
+    {
+      "id": 2056989148,
+      "phone": "+201201639937",
+      "file": "2056989148.session",
+      "name": "Support Monetag \ud83d\udcb8",
+      "added_by": "owner",
+      "added_at": "2026-06-17T20:24:44.217031",
+      "total_reports": 0,
+      "success_reports": 0,
+      "failed_reports": 0
+    }
+  ],
   "stats": {
     "total": 0,
     "success": 0,
     "failed": 0
   },
-  "last_updated": "2024-01-15T10:00:00"
+  "per_sender_stats": {
+    "+201201639937": {
+      "total": 0,
+      "success": 0,
+      "failed": 0,
+      "last_used": "2026-06-17T20:24:44.217115"
+    }
+  },
+  "last_updated": "2026-06-17T20:24:44.217152"
 }
